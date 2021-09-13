@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yangalli-portfolio.github.io/static/css/main.bd322911.chunk.css",
-    "main.js": "/yangalli-portfolio.github.io/static/js/main.14fa6f12.chunk.js",
-    "main.js.map": "/yangalli-portfolio.github.io/static/js/main.14fa6f12.chunk.js.map",
-    "runtime-main.js": "/yangalli-portfolio.github.io/static/js/runtime-main.534de021.js",
-    "runtime-main.js.map": "/yangalli-portfolio.github.io/static/js/runtime-main.534de021.js.map",
-    "static/js/2.fa322a05.chunk.js": "/yangalli-portfolio.github.io/static/js/2.fa322a05.chunk.js",
-    "static/js/2.fa322a05.chunk.js.map": "/yangalli-portfolio.github.io/static/js/2.fa322a05.chunk.js.map",
-    "index.html": "/yangalli-portfolio.github.io/index.html",
-    "static/css/main.bd322911.chunk.css.map": "/yangalli-portfolio.github.io/static/css/main.bd322911.chunk.css.map",
-    "static/js/2.fa322a05.chunk.js.LICENSE.txt": "/yangalli-portfolio.github.io/static/js/2.fa322a05.chunk.js.LICENSE.txt"
+    "main.css": "/yangalli-portfolio/static/css/main.bd322911.chunk.css",
+    "main.js": "/yangalli-portfolio/static/js/main.14fa6f12.chunk.js",
+    "main.js.map": "/yangalli-portfolio/static/js/main.14fa6f12.chunk.js.map",
+    "runtime-main.js": "/yangalli-portfolio/static/js/runtime-main.3e724b31.js",
+    "runtime-main.js.map": "/yangalli-portfolio/static/js/runtime-main.3e724b31.js.map",
+    "static/js/2.fa322a05.chunk.js": "/yangalli-portfolio/static/js/2.fa322a05.chunk.js",
+    "static/js/2.fa322a05.chunk.js.map": "/yangalli-portfolio/static/js/2.fa322a05.chunk.js.map",
+    "index.html": "/yangalli-portfolio/index.html",
+    "static/css/main.bd322911.chunk.css.map": "/yangalli-portfolio/static/css/main.bd322911.chunk.css.map",
+    "static/js/2.fa322a05.chunk.js.LICENSE.txt": "/yangalli-portfolio/static/js/2.fa322a05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.534de021.js",
+    "static/js/runtime-main.3e724b31.js",
     "static/js/2.fa322a05.chunk.js",
     "static/css/main.bd322911.chunk.css",
     "static/js/main.14fa6f12.chunk.js"
